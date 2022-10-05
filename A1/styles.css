@@ -12,7 +12,7 @@ body{
 }
 
 .heroContainer{
-    background-image: url(../images/florence.jpg);
+    background-image: url(images/florence.jpg);
     background-repeat: no-repeat;
     padding-top: 1px;
 }
@@ -58,7 +58,7 @@ ul{
     padding-top: 22px;
 }
 .header{
-    background-image: url(../images/logo.png);
+    background-image: url(images/logo.png);
     background-repeat: no-repeat;
     height: 70px;
     margin-left: 10px;
@@ -114,13 +114,13 @@ ul{
     height: 40px;
     color: rgb(95, 95, 95);
     font-size: 10px;
-    background-image: url(../images/comment.png);
+    background-image: url(images/comment.png);
     background-size: 20px;
     background-repeat: no-repeat;
 }
 .likes{
     margin-left: 10px;
-    background-image: url(../images/heart.png);
+    background-image: url(images/heart.png);
 }
 .likes:hover, .comments:hover{
     cursor: pointer;
