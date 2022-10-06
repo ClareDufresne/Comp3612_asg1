@@ -132,6 +132,7 @@ p.cardTitle{
     color: var(--dark-purple);
     font-size: 14px;
 }
+
 .imageAndResponses{
     display: inline-block;
     width: 50vw;
